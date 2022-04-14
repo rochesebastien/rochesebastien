@@ -1,5 +1,4 @@
-
-![alt text](https://github.com/rochesebastien/rochesebastien/projects.png?raw=true)
+![alt text](https://github.com/rochesebastien/rochesebastien/blob/main/projects.png?raw=true)
 Hi, im Sébastien.
 A french student who want to become front-end/full-stack dev. 
 Currently studying in BTS SIO, in development option . 
