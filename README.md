@@ -14,5 +14,5 @@ Currently studying in BTS SIO, I learned the technologies that govern the web to
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sebastien-roche.fr/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%A9bastien-r-b99269231)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebasti1r)
 [![gmail](https://img.shields.io/badge/gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastienroche230@gmail.com)
