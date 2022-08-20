@@ -1,7 +1,7 @@
 <img align="center" width="100%" src="https://github.com/rochesebastien/rochesebastien/blob/main/projects.png">
 
 ## 🚀 About Me
-Currently studying in BTS SIO, I learned the technologies that govern the web today, and I fell in love with it. Driven by creativity and curiosity, I want to become a web developer and deepen my experience in this field.
+Having finished a BTS SIO, I learned the technologies that govern the web today, and I fell in love with it. Driven by creativity and curiosity, I want to become a web developer and deepen my experience in this field.
 
 
 ## 🛠 Skills
