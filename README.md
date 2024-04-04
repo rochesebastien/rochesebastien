@@ -5,22 +5,27 @@ Hi! I have just finished my degree in information systems design, I have been pa
 
 
 ## 🛠 Skills
-- Web development technologies that I used
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,react,angular,nodejs,php,symfony,postman,prisma,jest,threejs,vite,vercel,express,jquery)](https://skillicons.dev)
+### Web development 
+- Frontend/Backend Technologies that I used
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,react,angular,nodejs,php,symfony,prisma,jest,threejs,vite,vercel,express,jquery,bootstrap,tailwind)](https://skillicons.dev)
 
 - Different databases with which I have already worked  
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,supabase)](https://skillicons.dev)
 
-- Other stacks I had to deal with  
+- Other stuff I or had to work with
+
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,flask,django,java,flutter,linux,raspberrypi)](https://skillicons.dev)
+
+- DevOps/GitOps tools I've already used or am learning  
  
-[![My Skills](https://skillicons.dev/icons?i=py,java,flutter,gitlab,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,jenkins,git,gitlab,github,githubactions,ansible)](https://skillicons.dev)
 
 - My softwares or websites
 
-[![My Skills](https://skillicons.dev/icons?i=ps,figma,androidstudio,vscode,stackoverflow,github,discord,codepen)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,figma,androidstudio,vscode,pycharm,stackoverflow,discord,codepen,postman,notion)](https://skillicons.dev)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sebastien-roche.fr/)
