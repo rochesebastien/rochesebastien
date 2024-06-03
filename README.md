@@ -31,7 +31,7 @@ Hi! I have just finished my degree in information systems design, I have been pa
 
 
 ### DevOPS/GitOPS, Environnements, Testing & Others:
-| Git | Gitlab(+CI) | Github(+CI) | Pytest | Jest | Docker |
+| Git | Gitlab(+CI) | Github(+CI) | Unitest | Jest | Docker |
 |----------|----------|----------|----------|----------|----------|
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="Github" alt="Github" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" title="Pytest" alt="Pytest" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/>|
 
